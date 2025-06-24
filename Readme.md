@@ -27,7 +27,7 @@ The system consists of two main components:
 1.  **Optical Data Link:** An optical transceiver on both the device and the docking station for data transfer.
 2.  **Wireless Power Link:** An inductive charging coil on both the device and the dock for power.
 
-![Architecture Diagram](docs/images/Diagramma%20Wireless%20Docking.jpg)
+![Architecture Diagram](docs/images/Diagram-wireless-docking.jpg)
 
 ### Power Component
 
@@ -57,7 +57,7 @@ The data component is designed for robust, high-speed communication and effortle
 
 As defined by the standard, the sensor is centrally located on the underside of the device.
 
-![Sensor placement on the laptop](docs/images/IA-Schema-laptop-sensor.jpg)
+![Sensor placement on the laptop](docs/images/IA-Schema-laptop-sensor.png)
 
 ### Implementation Details
 
@@ -76,7 +76,7 @@ As defined by the standard, the sensor is centrally located on the underside of 
 
 An example of how the docking station could look with the active connection indicators.
 
-![Docking station concept](docs/images/IA-Schema-laptop-wireless-dock.jpg)
+![Docking station concept](docs/images/IA-Schema-laptop-wireless-dock.png)
 
 ## License
 
