@@ -82,4 +82,4 @@ An example of how the docking station could look with the active connection indi
 
 This work is released into the public domain under the **Creative Commons CC0 1.0 Universal** license. You are free to use, copy, modify, and distribute this work, even for commercial purposes, without asking for permission.
 
-For more details, see the [LICENSE](LICENSE) file or visit: https://creativecommons.org/publicdomain/zero/1.0/
+For more detail visit: https://creativecommons.org/publicdomain/zero/1.0/
